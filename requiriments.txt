@@ -1,0 +1,11 @@
+# Batalla Naval - Sistema de combate por turnos
+# 
+# Este proyecto solo utiliza librerías estándar de Python:
+# - random (para lanzamiento())
+# - No requiere instalación adicional
+#
+# Para ejecutar el proyecto:
+# py Main.py
+
+# Si en el futuro agregas dependencias externas, listalas aquí:
+# ejemplo: pygame==2.5.2
